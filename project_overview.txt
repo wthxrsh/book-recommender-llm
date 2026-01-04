@@ -1,0 +1,21 @@
+🚀 Excited to share my latest project: Semantic Book Recommender! 📚✨
+
+This AI-powered application goes beyond simple keyword matching to understand the meaning and emotional vibe of what you want to read.
+
+💡 What it does:
+*   Semantic Search: Find books by describing a plot, theme, or feeling (e.g., "A story about redemption").
+*   Emotion Filtering: Sort recommendations by mood—Happy, Sad, Suspenseful, Angry, etc.
+*   Smart Discovery: Powered by vector embeddings to find the best conceptual matches.
+
+🛠️ How it works:
+1.  Vector Search: Uses LangChain and ChromaDB to convert book descriptions into vectors and match them with your query.
+2.  Sentiment Analysis: A DistilRoBERTa transformer model analyzes the emotional content of every book in the dataset.
+3.  Interactive UI: A sleek Gradio dashboard lets you filter by category and tone in real-time.
+
+💻 Tech Stack:
+*   Language: Python 🐍
+*   AI/NLP: LangChain, HuggingFace Transformers, ChromaDB
+*   Data: Pandas, NumPy
+*   Interface: Gradio
+
+#AI #MachineLearning #NLP #Python #DataScience #Gradio #OpenSource #DeepLearning #ProjectShowcase
